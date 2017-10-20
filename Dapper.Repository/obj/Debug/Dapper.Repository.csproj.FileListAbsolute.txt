@@ -1,0 +1,1 @@
+F:\FORMATIONS\PROJETS CODES\Dot.Net\DapperDemo\Dapper.Repository\obj\Debug\Dapper.Repository.csprojResolveAssemblyReference.cache

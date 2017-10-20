@@ -1,0 +1,5 @@
+F:\FORMATIONS\PROJETS CODES\Dot.Net\DapperDemo\Dapper.Model\bin\Debug\Dapper.Model.dll
+F:\FORMATIONS\PROJETS CODES\Dot.Net\DapperDemo\Dapper.Model\bin\Debug\Dapper.Model.pdb
+F:\FORMATIONS\PROJETS CODES\Dot.Net\DapperDemo\Dapper.Model\obj\Debug\Dapper.Model.csprojResolveAssemblyReference.cache
+F:\FORMATIONS\PROJETS CODES\Dot.Net\DapperDemo\Dapper.Model\obj\Debug\Dapper.Model.dll
+F:\FORMATIONS\PROJETS CODES\Dot.Net\DapperDemo\Dapper.Model\obj\Debug\Dapper.Model.pdb
