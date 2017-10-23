@@ -120,7 +120,6 @@ namespace Dapper.Repository.Extensions
             {
                 return Result.Ok(result ?? new SpTransactionMessage() { Success = true });
             }
-
             return Result.Fail(result, result.Message);
         }
 
