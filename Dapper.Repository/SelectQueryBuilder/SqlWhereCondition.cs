@@ -10,7 +10,6 @@ namespace Dapper.Repository.SelectQueryBuilder
         public int Order { get; set; }
         public string ConditionalOperator { get; set; }
         public object Value { get; set; }
-
         public List<SqlWhereCondition> InnerGridWhereConditions { get; set; }
     }
 }
