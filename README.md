@@ -1,2 +1,2 @@
 # DapperDemo
-Dapper Demo
+Dapper Demo sample
