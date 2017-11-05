@@ -24,7 +24,6 @@ namespace Dapper.Repository.IRepository
         IDbConnection GetDbConnection();
         DbDataAdapter GetDbDataAdapter(Database database);
 
-        Result<SpTransactionMessage> ExecuteQuery(string sqlQuery, object paramterValues,
-            CommandType commandType);
+        Result<SpTransactionMessage> ExecuteQuery(string sqlQuery, object paramterValues,CommandType commandType);
     }
 }
